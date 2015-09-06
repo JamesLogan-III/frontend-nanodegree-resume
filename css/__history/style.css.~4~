@@ -146,11 +146,8 @@ a {
 }
 
 ul {
-  list-style-type: none;  
-}
-
-li {
-	margin: 0 0 10px 10px; 
+  list-style-type: none;
+  margin: 0 0 10px 10px;
 }
 
 .biopic {

@@ -160,6 +160,10 @@ li {
   display: none;
 }
 
+.project-entry {
+	display: inline;
+}
+
 img {
   padding: 10px;
 }

@@ -146,11 +146,7 @@ a {
 }
 
 ul {
-  list-style-type: none;  
-}
-
-li {
-	margin: 0 0 10px 10px; 
+  list-style-type: none;
 }
 
 .biopic {
@@ -170,18 +166,6 @@ span {
 
 #lets-connect {
   text-align: center;
-}
-
-#map {
-  display: block;
-  height: 100%;
-  margin: 0 5%;
-}
-
-#mapDiv {
-  height: 400px;
-  width: 100%;
-  padding-bottom: 5%;
 }
 
 /* Media queries to handle various device widths */
@@ -208,6 +192,18 @@ span {
   .welcome-message {
     display: none;
   }
+}
+
+#map {
+  display: block;
+  height: 100%;
+  margin: 0 5%;
+}
+
+#mapDiv {
+  height: 400px;
+  width: 100%;
+  padding-bottom: 5%;
 }
 
 @media only screen and (min-width: 750px) {

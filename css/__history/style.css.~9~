@@ -160,6 +160,15 @@ li {
   display: none;
 }
 
+#projects {
+	width: 95%;
+}
+
+.project-entry {
+	width: 45%;
+	float: left;
+}
+
 img {
   padding: 10px;
 }
